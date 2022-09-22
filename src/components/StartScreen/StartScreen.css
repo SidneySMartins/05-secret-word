@@ -1,0 +1,12 @@
+.start {
+  margin: 2rem 0;
+}
+.start h1 {
+  font-size: 3.5rem;
+  padding: 1rem;
+}
+.start p {
+  margin-bottom: 2rem;
+  color: #ecfa00;
+  padding: 1rem;
+}
